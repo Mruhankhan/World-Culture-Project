@@ -144,15 +144,21 @@
       </tr>
     </tbody>
   </table>
-  <a href="quiz.html" class='quiz'>A quiz</a>
-    <button id='button'>Change Color</button>
+  <button id="button2"><b>Quiz</b></button>
+    <button id='button1'><b>Change Color</b></button>
 </body>
 
 </html>
 
 <script>
-  let button = document.getElementById('button')
-  button.addEventListener('click',() =>{
+  let button1 = document.getElementById('button1')
+  button1.addEventListener('click',() =>{
    document.body.style.backgroundColor = 'lightgreen'
+  })
+
+  let button2 = document.getElementById('button2')
+
+  button2.addEventListener('click',() =>{
+    window.open('quiz.html')
   })
 </script>

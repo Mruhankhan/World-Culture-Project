@@ -218,8 +218,17 @@
 body{
     background-color: lightblue;
 }
-#button{
+#button1{
     position:absolute;
     left: 80%;
     background-color: lightgreen;
+    width: 80px;
+    height: 40px;
+}
+#button2{
+    position:absolute;
+    left: 88%;
+    background-color: lightgreen;
+    width: 80px;
+    height: 40px;
 }
