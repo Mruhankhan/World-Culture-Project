@@ -1,0 +1,225 @@
+* {
+    margin: 0;
+
+}
+#header-1 {
+    font-size: 300%;
+    position: absolute;
+    top: 2%;
+    left: 40%;
+}
+#p-1 {
+    position: absolute;
+    top: 30%;
+    left: 4%;
+}
+#p-2 {
+    font-family: Helvetica;
+    font-size: 300%;
+    top: 10%;
+    left: 4%;
+    position: absolute;
+}
+#p-3 {
+    font-family: Helvetica;
+    top: 80%;
+    left: 4%;
+    position: absolute;
+    font-size: 200%;
+}
+#p-4 {
+    font-family: Helvetica;
+    position: absolute;
+    top: 88%;
+    left: 4%;
+    font-size: 140%;
+}
+#p-5 {
+    font-family: Helvetica;
+    top: 180%;
+    left: 4%;
+    position: absolute;
+    font-size: 200%;
+}
+#p-6 {
+    font-family: Helvetica;
+    position: absolute;
+    top: 188%;
+    left: 4%;
+    font-size: 140%;
+}
+#img-1 {
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    width: 250px;
+    height: 300px;
+}
+.table-1 {
+    position: absolute;
+    top: 120%;
+    border-collapse: collapse;
+    font-size: 200%;
+    min-width: 1200px;
+    left: 3%;
+}
+.table-2 {
+    position: absolute;
+    top: 220%;
+    border-collapse: collapse;
+    font-size: 200%;
+    min-width: 1200px;
+    left: 3%;
+}
+.tr-1 {
+    font-family: Helvetica;
+    position: absolute;
+    top: 110%;
+    left: 5%;
+    font-size: 70%;
+}
+.tr-2 {
+    position: absolute;
+    top: 400%;
+    left: 5%;
+    font-size: 70%;
+    font-family: Helvetica;
+}
+.tr-3 {
+    font-size: 70%;
+    position: absolute;
+    font-family: Helvetica;
+    left: 40%;
+    top: 110%;
+}
+.tr-4 {
+    font-size: 70%;
+    position: absolute;
+    font-family: Helvetica;
+    left: 40%;
+    top: 390%;
+}
+.tr-5 {
+    font-size: 70%;
+    position: absolute;
+    font-family: Helvetica;
+    top: 635%;
+    left: 40%;
+}
+.tr-6 {
+    font-size: 70%;
+    position: absolute;
+    font-family: Helvetica;
+    top: 110%;
+    left: 60%;
+}
+.tr-7 {
+    font-size: 70%;
+    position: absolute;
+    font-family: Helvetica;
+    top: 390%;
+    left: 60%;
+}
+.tr-8 {
+    position: absolute;
+    font-size: 70%;
+    font-family: Helvetica;
+    top: 634%;
+    left: 60%;
+}
+.tr-9 {
+    position: absolute;
+    font-size: 70%;
+    font-family: Helvetica;
+    top: 110%;
+    left: 80%;
+}
+.tr-10 {
+    position: absolute;
+    font-size: 70%;
+    font-family: Helvetica;
+    top: 390%;
+    left: 80%;
+}
+.tr-11 {
+    position: absolute;
+    font-size: 70%;
+    font-family: Helvetica;
+    top: 100%;
+    left: 12%;
+}
+.tr-12 {
+    position: absolute;
+    font-size: 70%;
+    font-family: Helvetica;
+    top: 210%;
+    left: 10%;
+}
+.tr-13 {
+    position: absolute;
+    font-size: 70%;
+    font-family: Helvetica;
+    top: 100%;
+    left: 38%;
+}
+.tr-14 {
+    position: absolute;
+    font-size: 70%;
+    font-family: Helvetica;
+    top: 400%;
+    left: 38%;
+}
+.tr-15 {
+    position: absolute;
+    font-size: 70%;
+    font-family: Helvetica;
+    top: 650%;
+    left: 38%;
+}
+.tr-16 {
+    position: absolute;
+    font-size: 70%;
+    font-family: Helvetica;
+    top: 94%;
+    left: 60%;
+}
+.tr-17 {
+    position: absolute;
+    font-size: 70%;
+    font-family: Helvetica;
+    top: 400%;
+    left: 60%;
+}
+.tr-18 {
+    position: absolute;
+    font-size: 70%;
+    font-family: Helvetica;
+    top: 650%;
+    left: 60%;
+}
+.tr-19 {
+    position: absolute;
+    font-size: 70%;
+    font-family: Helvetica;
+    top: 100%;
+    left: 85%;
+}
+.tr-20 {
+    position: absolute;
+    font-size: 70%;
+    font-family: Helvetica;
+    top: 400%;
+    left: 85%;
+}
+.quiz{
+    position: absolute;
+    left: 90%;
+}
+body{
+    background-color: lightblue;
+}
+#button{
+    position:absolute;
+    left: 80%;
+    background-color: lightgreen;
+}
